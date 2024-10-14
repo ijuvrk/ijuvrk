@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ijuvrk
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Swift, Java, React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on iOS projects
 - 📫 How to reach me ijascochin@gmail.com
 
 <!---
